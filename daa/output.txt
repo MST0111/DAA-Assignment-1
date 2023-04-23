@@ -1,0 +1,378 @@
+Number of Vertices = 100
+Printing Vertices info
+Point 1 (132.236,-3.83826)
+Point 2 (207.774,-20.7624)
+Point 3 (153.531,-16.7084)
+Point 4 (190.323,-32.8311)
+Point 5 (184.695,-34.4633)
+Point 6 (184.219,-41.2091)
+Point 7 (79.689,-21.5308)
+Point 8 (98.5365,-37.1536)
+Point 9 (180.038,-75.1485)
+Point 10 (102.364,-43.6069)
+Point 11 (135.402,-59.8298)
+Point 12 (165.975,-76.2888)
+Point 13 (164.595,-78.8432)
+Point 14 (115.556,-105.6)
+Point 15 (103.428,-101.628)
+Point 16 (95.8522,-94.6756)
+Point 17 (84.5719,-105.648)
+Point 18 (142.21,-205.678)
+Point 19 (120.875,-249.377)
+Point 20 (62.2716,-140.735)
+Point 21 (57.5837,-202.139)
+Point 22 (61.0578,-235.063)
+Point 23 (40.7672,-171.269)
+Point 24 (45.6826,-193.173)
+Point 25 (38.2787,-245.963)
+Point 26 (16.3187,-185.652)
+Point 27 (15.9771,-201.031)
+Point 28 (2.46562,-147.142)
+Point 29 (-17.5733,-242.673)
+Point 30 (-24.1196,-167.03)
+Point 31 (-22.1954,-114.604)
+Point 32 (-25.172,-143.207)
+Point 33 (-37.1198,-169.742)
+Point 34 (-40.5949,-163.345)
+Point 35 (-100.169,-201.766)
+Point 36 (-91.1137,-143.48)
+Point 37 (-133.494,-195.688)
+Point 38 (-42.0922,-45.3906)
+Point 39 (-193.122,-246.028)
+Point 40 (-212.853,-208.645)
+Point 41 (-185.578,-173.101)
+Point 42 (-213.319,-151.438)
+Point 43 (-192.58,-123.57)
+Point 44 (-141.782,-74.8547)
+Point 45 (-165.673,-52.8462)
+Point 46 (-190.12,-52.2881)
+Point 47 (-61.2748,-1.41246)
+Point 48 (-222.635,9.69439)
+Point 49 (-194.814,24.3461)
+Point 50 (-241.385,36.0468)
+Point 51 (-130.604,30.6993)
+Point 52 (-173.488,43.0312)
+Point 53 (-200.744,49.9086)
+Point 54 (-141.042,44.1654)
+Point 55 (-92.2616,30.8769)
+Point 56 (-200.227,71.1021)
+Point 57 (-209.784,87.9946)
+Point 58 (-42.5503,21.1235)
+Point 59 (-142.678,68.5925)
+Point 60 (-247.45,132.041)
+Point 61 (-221.24,149.572)
+Point 62 (-140.415,112.826)
+Point 63 (-238.451,209.401)
+Point 64 (-136.468,129.208)
+Point 65 (-246.899,248.387)
+Point 66 (-231.799,243.7)
+Point 67 (-182.677,213.236)
+Point 68 (-144.355,186.256)
+Point 69 (-153.706,214.762)
+Point 70 (-37.0302,46.1502)
+Point 71 (-126.284,184.457)
+Point 72 (-60.1777,110.946)
+Point 73 (-38.0888,71.3124)
+Point 74 (-46.3334,143.957)
+Point 75 (-17.5632,209.328)
+Point 76 (7.48655,242.116)
+Point 77 (8.88006,194.374)
+Point 78 (20.0853,131.366)
+Point 79 (35.1673,176.019)
+Point 80 (47.6595,182.355)
+Point 81 (38.6683,141.875)
+Point 82 (67.4702,217.095)
+Point 83 (39.15,136.681)
+Point 84 (61.1584,185.803)
+Point 85 (71.7979,138.329)
+Point 86 (109.862,175.067)
+Point 87 (177.709,215.736)
+Point 88 (185.854,214.699)
+Point 89 (111.238,120.885)
+Point 90 (223.692,196.388)
+Point 91 (123.882,102.145)
+Point 92 (37.3955,40.0827)
+Point 93 (97.8375,78.7833)
+Point 94 (235.317,145.276)
+Point 95 (100.732,54.4697)
+Point 96 (1.03153,9.84911)
+Point 97 (121.795,50.2622)
+Point 98 (214.921,64.9337)
+Point 99 (133.781,38.5859)
+Point 100 (70.6621,16.7501)
+Number of Edges = 157
+Edges between point 0 and 1
+Edges between point 1 and 2
+Edges between point 2 and 3
+Edges between point 3 and 4
+Edges between point 4 and 5
+Edges between point 5 and 6
+Edges between point 6 and 7
+Edges between point 7 and 8
+Edges between point 8 and 9
+Edges between point 9 and 10
+Edges between point 10 and 11
+Edges between point 11 and 12
+Edges between point 12 and 13
+Edges between point 13 and 14
+Edges between point 14 and 15
+Edges between point 15 and 16
+Edges between point 16 and 17
+Edges between point 17 and 18
+Edges between point 18 and 19
+Edges between point 19 and 20
+Edges between point 20 and 21
+Edges between point 21 and 22
+Edges between point 22 and 23
+Edges between point 23 and 24
+Edges between point 24 and 25
+Edges between point 25 and 26
+Edges between point 26 and 27
+Edges between point 27 and 28
+Edges between point 28 and 29
+Edges between point 29 and 30
+Edges between point 30 and 31
+Edges between point 31 and 32
+Edges between point 32 and 33
+Edges between point 33 and 34
+Edges between point 34 and 35
+Edges between point 35 and 36
+Edges between point 36 and 37
+Edges between point 37 and 38
+Edges between point 38 and 39
+Edges between point 39 and 40
+Edges between point 40 and 41
+Edges between point 41 and 42
+Edges between point 42 and 43
+Edges between point 43 and 44
+Edges between point 44 and 45
+Edges between point 45 and 46
+Edges between point 46 and 47
+Edges between point 47 and 48
+Edges between point 48 and 49
+Edges between point 49 and 50
+Edges between point 50 and 51
+Edges between point 51 and 52
+Edges between point 52 and 53
+Edges between point 53 and 54
+Edges between point 54 and 55
+Edges between point 55 and 56
+Edges between point 56 and 57
+Edges between point 57 and 58
+Edges between point 58 and 59
+Edges between point 59 and 60
+Edges between point 60 and 61
+Edges between point 61 and 62
+Edges between point 62 and 63
+Edges between point 63 and 64
+Edges between point 64 and 65
+Edges between point 65 and 66
+Edges between point 66 and 67
+Edges between point 67 and 68
+Edges between point 68 and 69
+Edges between point 69 and 70
+Edges between point 70 and 71
+Edges between point 71 and 72
+Edges between point 72 and 73
+Edges between point 73 and 74
+Edges between point 74 and 75
+Edges between point 75 and 76
+Edges between point 76 and 77
+Edges between point 77 and 78
+Edges between point 78 and 79
+Edges between point 79 and 80
+Edges between point 80 and 81
+Edges between point 81 and 82
+Edges between point 82 and 83
+Edges between point 83 and 84
+Edges between point 84 and 85
+Edges between point 85 and 86
+Edges between point 86 and 87
+Edges between point 87 and 88
+Edges between point 88 and 89
+Edges between point 89 and 90
+Edges between point 90 and 91
+Edges between point 91 and 92
+Edges between point 92 and 93
+Edges between point 93 and 94
+Edges between point 94 and 95
+Edges between point 95 and 96
+Edges between point 96 and 97
+Edges between point 97 and 98
+Edges between point 98 and 99
+Edges between point 99 and 0
+Edges between point 2 and 0
+Edges between point 4 and 2
+Edges between point 6 and 4
+Edges between point 9 and 7
+Edges between point 15 and 9
+Edges between point 19 and 16
+Edges between point 22 and 20
+Edges between point 25 and 22
+Edges between point 27 and 25
+Edges between point 30 and 27
+Edges between point 33 and 30
+Edges between point 35 and 33
+Edges between point 37 and 35
+Edges between point 40 and 37
+Edges between point 43 and 40
+Edges between point 46 and 44
+Edges between point 48 and 46
+Edges between point 50 and 48
+Edges between point 54 and 51
+Edges between point 57 and 54
+Edges between point 61 and 57
+Edges between point 63 and 61
+Edges between point 67 and 63
+Edges between point 69 and 67
+Edges between point 72 and 69
+Edges between point 76 and 72
+Edges between point 80 and 77
+Edges between point 82 and 80
+Edges between point 84 and 82
+Edges between point 88 and 84
+Edges between point 91 and 88
+Edges between point 95 and 91
+Edges between point 98 and 95
+Edges between point 2 and 99
+Edges between point 6 and 2
+Edges between point 16 and 6
+Edges between point 22 and 19
+Edges between point 27 and 22
+Edges between point 37 and 30
+Edges between point 43 and 37
+Edges between point 46 and 43
+Edges between point 50 and 46
+Edges between point 57 and 50
+Edges between point 63 and 57
+Edges between point 69 and 63
+Edges between point 77 and 69
+Edges between point 82 and 77
+Edges between point 95 and 82
+Edges between point 99 and 95
+Edges between point 6 and 99
+Edges between point 37 and 6
+Edges between point 46 and 37
+Edges between point 57 and 46
+Edges between point 69 and 57
+Edges between point 95 and 69
+Edges between point 46 and 95
+Edges between point 95 and 57
+
+No of faces are 58
+Face id is 0
+2 0 1 
+Face id is 1
+4 2 3 
+Face id is 2
+6 4 5 
+Face id is 3
+9 7 8 
+Face id is 4
+15 9 10 11 12 13 14 
+Face id is 5
+19 16 17 18 
+Face id is 6
+22 20 21 
+Face id is 7
+25 22 23 24 
+Face id is 8
+27 25 26 
+Face id is 9
+30 27 28 29 
+Face id is 10
+33 30 31 32 
+Face id is 11
+35 33 34 
+Face id is 12
+37 35 36 
+Face id is 13
+40 37 38 39 
+Face id is 14
+43 40 41 42 
+Face id is 15
+46 44 45 
+Face id is 16
+48 46 47 
+Face id is 17
+50 48 49 
+Face id is 18
+54 51 52 53 
+Face id is 19
+57 54 55 56 
+Face id is 20
+61 57 58 59 60 
+Face id is 21
+63 61 62 
+Face id is 22
+67 63 64 65 66 
+Face id is 23
+69 67 68 
+Face id is 24
+72 69 70 71 
+Face id is 25
+76 72 73 74 75 
+Face id is 26
+80 77 78 79 
+Face id is 27
+82 80 81 
+Face id is 28
+84 82 83 
+Face id is 29
+88 84 85 86 87 
+Face id is 30
+91 88 89 90 
+Face id is 31
+95 91 92 93 94 
+Face id is 32
+98 95 96 97 
+Face id is 33
+2 99 0 
+Face id is 34
+6 2 4 
+Face id is 35
+16 6 7 9 15 
+Face id is 36
+22 19 20 
+Face id is 37
+27 22 25 
+Face id is 38
+37 30 33 35 
+Face id is 39
+43 37 40 
+Face id is 40
+46 43 44 
+Face id is 41
+50 46 48 
+Face id is 42
+57 50 51 54 
+Face id is 43
+63 57 61 
+Face id is 44
+69 63 67 
+Face id is 45
+77 69 72 76 
+Face id is 46
+82 77 80 
+Face id is 47
+95 82 84 88 91 
+Face id is 48
+99 95 98 
+Face id is 49
+6 99 2 
+Face id is 50
+37 6 16 19 22 27 30 
+Face id is 51
+46 37 43 
+Face id is 52
+57 46 50 
+Face id is 53
+69 57 63 
+Face id is 54
+95 69 77 82 
+Face id is 55
+46 95 99 6 37 
+Face id is 56
+95 57 69 
+Face id is 57
+46 57 95 

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DAA Report</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			font-size: 14px;
+			line-height: 1.5;
+		}
+		
+		h1 {
+			font-size: 28px;
+			margin-bottom: 20px;
+		}
+		
+		h2 {
+			font-size: 24px;
+			margin-top: 30px;
+			margin-bottom: 15px;
+		}
+		
+		table {
+			width: 100%;
+			border-collapse: collapse;
+			margin-bottom: 30px;
+		}
+		
+		table th, table td {
+			padding: 10px;
+			border: 1px solid #ccc;
+			text-align: left;
+		}
+		
+		table th {
+			background-color: #eee;
+			font-weight: bold;
+		}
+		
+		ul {
+			margin-top: 0;
+			margin-bottom: 20px;
+		}
+		
+		li {
+			margin-bottom: 10px;
+		}
+        img{
+            height: 300px;
+            width: 350px;
+        }
+        .image {
+			flex: 1;
+			margin: 10px;
+			position: relative;
+		}
+        td,th{
+            font-size: 25px;
+        }
+		
+		.caption {
+
+
+			background-color: rgba(0, 0, 0, 0.5);
+			color: white;
+			padding: 0px;
+			text-align: center;
+		}
+        .container {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+            margin-left:150px;
+            margin-right: 150px;
+		}
+	</style>
+</head>
+<body>
+	<h1 style="text-align: center;">CS F364 - Design and Analysis of Algorithms</h1>
+	
+	<h2 style="text-align: center;">Assignment - I</h2>
+	<p style="text-align: center;font-size: 20px;">Algorithm for the decomposition of a polygon into convex polygons.</p>
+	
+	<h2 style="text-align: center;">Group Members</h2>
+	<table style="width: 80%;margin-left: auto;margin-right: auto;">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>ID</th>
+		
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>T.Praneeth Bhargav</td>
+				<td>2020A7PS1299H</td>
+	
+			</tr>
+			<tr>
+				<td>N.Sai Charan</td>
+				<td>2020A7PS0182H</td>
+
+			</tr>
+			<tr>
+				<td>M.Sree Theerdha</td>
+				<td>2020A7PS1889H</td>
+
+			</tr>
+            <tr>
+                <td>S.V.S.Rahul</td>
+				<td>2020A7PS0204H</td>
+				
+
+			</tr>
+		</tbody>
+	</table>
+
+    <div class="box" style="width: 80%;margin: auto;">
+        <h2 style="text-align: center;">Brief Introduction</h2>
+        <p style="font-size: 25px;">
+            The paper "Algorithms for the decomposition of a polygon into convex polygons " by J. Fernandez, L. Canovas, B. Pelegrõn presents algorithms for decomposing a non-convex polygon into convex polygons without adding new vertices. The partitions produced by the algorithms may not have minimal cardinality but are easy to implement and have quick CPU times. The paper also introduces a procedure to remove unnecessary edges of a partition by merging the polygons whose union remains a convex polygon. These algorithms and procedures can be useful in constrained optimization problems where the feasible set is a non-convex polygon, and finding the optimal solution in all subsets may be time-consuming. Computational experiments are presented and analyzed.
+            <br>
+            There were three algorithms available for the problem, in which only 1 was explained in brief and we implemented that algorithm MP1.
+            <br>
+            MP1 algorithm starts to put diagonals appropriately so that every polygon formed in the due time is always convex and the rest of the polygon is worked upon. This method is called Splitting/Decomposition of the given polygon into convex partitions. But these partitions are not always optimal.Hence Merging Process is implemented in which we remove those diagonals whose removal gurantees the polygon formed by the union of the polygons back then to be convex. This ends the MP1 algorithm. Timings Plots are plotted against various polygon sizes and timings are plotted for the entire code, split and merge processes. Those are shown below with a few test cases too.
+        </p>
+
+    </div>
+	
+
+    <div style="height: 100px;text-align: center;margin-top: 150px;">
+        <h2>Timing Plots</h2>
+        <h3>With number of vertices ranging from 10 to 2000 </h3>
+    </div>
+	<div class="container">
+		<div class="image">
+			<img src="Timing.png" alt="Image 1">
+			<div class="caption">Total Time</div>
+		</div>
+		<div class="image">
+			<img src="split_timing.png" alt="Image 2">
+			<div class="caption">Split time</div>
+		</div>
+		<div class="image">
+			<img src="merge_timing.png" alt="Image 3">
+			<div class="caption">Merge time</div>
+		</div>
+	</div>
+
+    <div style="display: flex;justify-content: center;align-items: center;margin-top: 50px;">
+        <img src="./table.png" style="height:440px;width: 740px;" alt="">
+        
+    </div>
+
+
+
+
+
+
+    <div style="height: 100px;text-align: center;margin-top: 150px;">
+        <h2>Results of the Algorithm</h2>
+    </div>
+
+    <h2 style="margin-left: 180px;">Number of vertices : 9</h2>
+	<div class="container">
+		<div class="image">
+			<img src="2a.png" alt="Image 1">
+			<div class="caption">Polygon</div>
+		</div>
+		<div class="image">
+			<img src="2b.png" alt="Image 2">
+			<div class="caption">After Split</div>
+		</div>
+		<div class="image">
+			<img src="2c.png" alt="Image 3">
+			<div class="caption">After Merge</div>
+		</div>
+	</div>
+
+    <h2 style="margin-left: 180px;">Number of vertices : 45</h2>
+	<div class="container">
+		<div class="image">
+			<img src="3a.png" alt="Image 1">
+			<div class="caption">Polygon</div>
+		</div>
+		<div class="image">
+			<img src="3b.png" alt="Image 2">
+			<div class="caption">After Split</div>
+		</div>
+		<div class="image">
+			<img src="3c.png" alt="Image 3">
+			<div class="caption">After Merge</div>
+		</div>
+	</div>
+
+    <h2 style="margin-left: 180px;">Number of vertices : 201</h2>
+	<div class="container">
+		<div class="image">
+			<img src="1a.png" alt="Image 1">
+			<div class="caption">Polygon</div>
+		</div>
+		<div class="image">
+			<img src="1b.png" alt="Image 2">
+			<div class="caption">After Split</div>
+		</div>
+		<div class="image">
+			<img src="1c.png" alt="Image 3">
+			<div class="caption">After Merge</div>
+		</div>
+	</div>
+
+	
+    <div style="height: 200px;">
+
+    </div>
+</body>
+</html>
